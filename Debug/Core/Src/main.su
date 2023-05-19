@@ -1,0 +1,14 @@
+../Core/Src/main.cpp:74:6:void HAL_SPI_TxRxCpltCallback(SPI_HandleTypeDef*)	16	static
+../Core/Src/main.cpp:81:6:void spiProcessing()	16	static
+../Core/Src/main.cpp:111:6:void HAL_SPI_ErrorCallback(SPI_HandleTypeDef*)	32	static
+../Core/Src/main.cpp:144:6:void HAL_SPI_DMAErrorCallback(SPI_HandleTypeDef*)	32	static
+../Core/Src/main.cpp:154:6:void tsInit()	40	static
+../Core/Src/main.cpp:203:5:int main()	8	static
+../Core/Src/main.cpp:256:6:void SystemClock_Config()	80	static
+../Core/Src/main.cpp:296:13:void MX_IWDG_Init()	8	static
+../Core/Src/main.cpp:325:13:void MX_SPI2_Init()	8	static
+../Core/Src/main.cpp:362:13:void MX_DMA_Init()	16	static
+../Core/Src/main.cpp:380:13:void MX_GPIO_Init()	56	static
+../Core/Src/main.cpp:462:6:void Error_Handler()	8	static,ignoring_inline_asm
+../Core/Src/main.cpp:471:1:void __static_initialization_and_destruction_0(int, int)	24	static
+../Core/Src/main.cpp:471:1:cpp)	8	static
